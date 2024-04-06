@@ -37,7 +37,7 @@
 This the backend code for the application where one can create house, add houses to favorites and delete. Its an API only application that applies authorization and sessions management for these actions
 - [Kanban Board](https://github.com/users/Ochiengsteven/projects/5)
 
-![Screenshot 2023-04-07 124818](![kenbenSetup](https://github.com/Ochiengsteven/rent-backend/assets/70527740/b1620b15-4871-41fd-b8d3-0ebe3737dc46)
+![Screenshot 2023-04-07 124818](![kenbenSetup](https://github.com/m00h0/rent-backend/assets/70527740/b1620b15-4871-41fd-b8d3-0ebe3737dc46)
 )
 
 ## 🛠 Built With <a name="built-with"></a>
