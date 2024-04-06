@@ -82,7 +82,7 @@ This the backend code for the application where one can create house, add houses
 
 <!-- React Frontend -->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="23" height="20"/> React Frontend <a name="react-frontend"></a>
-- Here is the Frontend part of the project [book houses app](https://github.com/faisalakb/Capstone-Front-End)
+- Here is the Frontend part of the project [book houses app](https://github.com/m00h0/book-hotel-frontend)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
