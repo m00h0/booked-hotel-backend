@@ -152,7 +152,7 @@ To run the project, execute the following command:
 
 👤 **Ahmed**
 
-- GitHub: [@newtonah0](https://github.com/newtonah0)
+- GitHub: [@m00h0](https://github.com/m00h0)
 
 👤 **Ochiengsteven**
 
