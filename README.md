@@ -8,7 +8,6 @@
     - [Key Features](#key-features)
   - [<img src="https://cdn-icons-png.flaticon.com/512/5360/5360804.png" width="23" height="20"/> Kanban Board](#kanban-board)
   - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="23" height="20"/> React Frontend](#react-frontend)
-  - [<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/spiral-notepad_1f5d2-fe0f.png" width="23" height="20"/> API Documentation](#api-docs)
   - [🚀 Live Demo](#live-demo)
   
 - [💻 Getting Started](#getting-started)
@@ -70,13 +69,6 @@ This the backend code for the application where one can create house, add houses
 - **[houses List endpoint]**
 - **[Devise authentication to access houses]**
 - **[Authenticated Users can add  houses as  favorites ]**
-
-## API Documentation<a name="api-docs"></a>
-**Here is the API documentation of the project**
-
-- #### [Users](https://github.com/m00h0/rent-backend/blob/dev/documentation/User_API_documentation.md)
-- #### [Houses](https://github.com/m00h0/rent-backend/blob/dev/documentation/Houses_API_documentation.md)
-- #### [Favorites](https://github.com/Ochiengsteven/rent-backend/blob/dev/documentation/Favorites_API_documentation.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
