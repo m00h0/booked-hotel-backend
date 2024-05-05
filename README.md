@@ -171,7 +171,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Ochiengsteven/rent-backend/issues).
+Feel free to check the [issues page](https://github.com/m00h0/booked-hotel-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
